@@ -147,19 +147,8 @@ streamlit run app.py
 
 ---
 
-# Future Improvements
-
-- Sales Forecasting
-- Recommendation System
-- Real-Time Database Integration
-- Deployment on Cloud
-- Advanced Predictive Analytics
-  
----
-
 # Author
-
-# Akash Bhusod
+ Akash Bhusod
 
 GitHub:
 https://github.com/akashbhusod-cmyk
