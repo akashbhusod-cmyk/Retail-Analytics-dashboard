@@ -106,7 +106,6 @@ Retail-Analytics-dashboard/
 
 ---
 
-# Installation & Setup
 # Dashboard Highlights
 
 - Interactive Streamlit UI
