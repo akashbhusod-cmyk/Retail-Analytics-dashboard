@@ -114,12 +114,6 @@ Retail-Analytics-dashboard/
 git clone https://github.com/akashbhusod-cmyk/Retail-Analytics-dashboard.git
 ```
 
-## Navigate to Project
-
-```bash
-cd Retail-Analytics-dashboard
-```
-
 # Dashboard Highlights
 
 - Interactive Streamlit UI
