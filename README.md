@@ -107,13 +107,6 @@ Retail-Analytics-dashboard/
 ---
 
 # Installation & Setup
-
-## Clone Repository
-
-```bash
-git clone https://github.com/akashbhusod-cmyk/Retail-Analytics-dashboard.git
-```
-
 # Dashboard Highlights
 
 - Interactive Streamlit UI
