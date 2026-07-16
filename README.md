@@ -126,14 +126,6 @@ cd Retail-Analytics-dashboard
 pip install -r requirements.txt
 ```
 
-## Run Application
-
-```bash
-streamlit run app.py
-```
-
----
-
 # Dashboard Highlights
 
 - Interactive Streamlit UI
