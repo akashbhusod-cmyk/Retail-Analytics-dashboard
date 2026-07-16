@@ -120,12 +120,6 @@ git clone https://github.com/akashbhusod-cmyk/Retail-Analytics-dashboard.git
 cd Retail-Analytics-dashboard
 ```
 
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 # Dashboard Highlights
 
 - Interactive Streamlit UI
